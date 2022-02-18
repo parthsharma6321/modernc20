@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ipb_arithmetic.hpp
+ipb_arithmetic/subtract.hpp
+../include/ipb_arithmetic/subtract.hpp
+ipb_arithmetic/sum.hpp
+../include/ipb_arithmetic/sum.hpp
+
+../include/ipb_arithmetic/subtract.hpp
+
+../include/ipb_arithmetic/sum.hpp
+
+/home/parth/modernc20/hw1/task_2/src/main.cpp
+iostream
+-
+ipb_arithmetic.hpp
+/home/parth/modernc20/hw1/task_2/src/ipb_arithmetic.hpp
+

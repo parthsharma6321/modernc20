@@ -1,0 +1,4 @@
+/home/parth/modernc20/hw1/task_2/build/CMakeFiles/rebuild_cache.dir
+/home/parth/modernc20/hw1/task_2/build/CMakeFiles/main.dir
+/home/parth/modernc20/hw1/task_2/build/CMakeFiles/edit_cache.dir
+/home/parth/modernc20/hw1/task_2/build/CMakeFiles/ipb_arithmetic.dir
