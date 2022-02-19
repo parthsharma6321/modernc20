@@ -1,0 +1,5 @@
+/home/parth/modernc20/hw3/build/CMakeFiles/rebuild_cache.dir
+/home/parth/modernc20/hw3/build/CMakeFiles/edit_cache.dir
+/home/parth/modernc20/hw3/build/CMakeFiles/main.dir
+/home/parth/modernc20/hw3/build/CMakeFiles/image_browser.dir
+/home/parth/modernc20/hw3/build/CMakeFiles/html_writer.dir
