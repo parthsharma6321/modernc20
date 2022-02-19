@@ -1,0 +1,4 @@
+/home/parth/modernc20/hw1/task_2/install/lib/libipb_arithmetic.a
+/home/parth/modernc20/hw1/task_2/install/include/ipb_arithmetic.hpp
+/home/parth/modernc20/hw1/task_2/install/include/ipb_arithmetic/sum.hpp
+/home/parth/modernc20/hw1/task_2/install/include/ipb_arithmetic/subtract.hpp
